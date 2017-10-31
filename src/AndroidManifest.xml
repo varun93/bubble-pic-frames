@@ -69,7 +69,7 @@
 
         <meta-data
             android:name="com.aviary.android.feather.v1.API_KEY"
-            android:value="2694ba7f7b844069" />
+            android:value="PLACE YOUR API KEY HERE" />
     </application>
 
 </manifest>
