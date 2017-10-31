@@ -1,7 +1,7 @@
 BubblePicFrames
 ===============
 
-It is photo collage application where users can create a collage with bubbles. It allows the user create a collage by moving and scaling the bubbles with user gestures. It has a built in Physics Engine to naturally move the bubble in a world governed by laws of physics.This project was done as a part of the app development competition for Google Admob 2014.
+It is photo collage application where users can create a collage with bubbles. It allows the user create a collage by moving and scaling the bubbles with user gestures. It has a built in Physics Engine to naturally move the bubble in a world governed by laws of physics.This app was developed as a part of the Google Admob App development Competition 2014.
 
 The app is available on [Playstore](https://play.google.com/store/apps/details?id=com.applications.bubblepicframes&hl=en)
 
