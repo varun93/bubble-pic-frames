@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bubble Pic Frames</string>
+    <string name="addbubble">Create Bubble	</string>
+    <string name="pickbubble">Fill Bubble</string>
+    <string name="background">Fill Background</string>
+    <string name="export">Export/Share</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="change">Change</string>
+    <string name="delete">Delete</string>
+
+</resources>
